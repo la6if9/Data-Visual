@@ -1,6 +1,7 @@
 # Data-Visualiziation
 Building plots layer-by-layer with the ggplot() function, and with the basic geometries for displaying numeric and categorical variables using the data set /txhousing
 
+Adding a (non-linear) regression line to describes the relationship between volume and sales.
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot01.png?raw=true)
 
 
